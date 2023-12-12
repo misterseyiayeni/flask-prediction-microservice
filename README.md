@@ -1,4 +1,4 @@
-## Flask Predict Microservice
+## Flask Prediction Microservice
 
 ### Overview
 
