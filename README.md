@@ -27,3 +27,7 @@ This script requires the following libraries:
 For now the prediction app can be called in the follwing way:
 
 ./script.sh <n_samples>.
+
+### Makefile
+
+This file is the recipe for setting up the environment. It installs or upgrades pip then goes ahead to install the necessary libraries and finally lints the code.
